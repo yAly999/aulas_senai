@@ -15,3 +15,9 @@ def saudacao():
     print(f"Olá, {nome} {sobrenome}")
 
 saudacao()
+
+def somar(n1, n2):
+    print(f"a soma é {n1+n2}")
+
+somar(5,10)    
+
